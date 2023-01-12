@@ -1,0 +1,16 @@
+{
+  "name": "mrodriguez,jnoriega/328/pets",
+  "authors": [
+    {
+      "name": "Michell Rodriguez",
+      "email": "rodriguez.michell@student.greenriver.edu"
+    },
+    {
+      "name": "Junny Noriega-Arenas",
+      "email": "noriega-arenas.junny@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
