@@ -1,12 +1,14 @@
 html, body {
     height: 100%;
     width: 100%;
+    background-color: #125d9e;
 }
 
-body{
-    background-color: aliceblue;
+img {
+    border: solid 2px black;
 }
 
 h1{
-    color: #12127c;
+    color: green;
+    font-family: "Roboto Light";
 }

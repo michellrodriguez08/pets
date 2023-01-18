@@ -19,7 +19,7 @@ $f3->route('GET /', function(){
 //    echo '<h1>Pet Home!<h1>';
     $view = new template();
     echo $view->render('views/home.html');
-    echo $view->render('styles/styles.css');
+//    echo $view->render('styles/styles.css');
 });
 
 //Run Fat-Free
